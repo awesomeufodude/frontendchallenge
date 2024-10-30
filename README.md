@@ -1,13 +1,17 @@
 # Survival Nexus Next.js Application Setup Guide
 
 ## Table of Contents
-1. [Prerequisites](#prerequisites)
-2. [Installation](#installation)
-3. [Running the Application](#running-the-application)
-4. [Additional Configuration](#additional-configuration)
-5. [Deployed Application](#deployed-application)
+1. [Deployed Application](#deployed-application)
+2. [Prerequisites](#prerequisites)
+3. [Installation](#installation)
+4. [Running the Application](#running-the-application)
+5. [Additional Configuration](#additional-configuration)
 
 ---
+
+## Deployed Application
+
+You can find the deployed version of Survival Nexus [here](https://frontendchallenge-orcin.vercel.app/).   
 
 ## Prerequisites
 
